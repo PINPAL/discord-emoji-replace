@@ -14,4 +14,5 @@
 
 # Coming Soon
 **Dynamically building using the Unicode API (no need to manually download all the files)**
+
 See the `/generate-from-unicode-api/` folder, while this is mostly working there a few issues regarding the emojipedia URL being different on certain emojis.
